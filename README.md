@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/ic-aulas/blob/master/)
 
 # Introdução a Programação (UFRPE)
-Material de apoio para os cursos de Introdução a Programação com Python na UFRPE.
+Material de apoio para os cursos de Introdução a Programação com Python na UFRPE..
 
 ## Objetivos do Curso
 Fornecer aos alunos os conhecimentos básicos dos principais tópicos de programação e ciência da computação. Noções sobre o desenvolvimento de algoritmos e visualizar algumas aplicações práticas dessas teorias e técnicas.
